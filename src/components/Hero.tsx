@@ -40,7 +40,7 @@ const Hero = () => {
               {/* Main image container */}
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-white shadow-xl">
                 <img
-                  src="./public/img/dp.jpg"
+                  src="./img/dp.jpg"
                   alt="Professional headshot"
                   className="w-full h-full object-cover"
                 />

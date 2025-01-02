@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Book Recommendation System ',
     description: 'A personalized book recommendation system featuring intelligent algorithms, user preferences, and real-time search, with features like genre-based suggestions, ratings, and a seamless user interface.',
-    image: './public/img/book.png',
+    image: './img/book.png',
     tech: ['React', 'Node.js', 'MongoDB', 'GitHub'],
     github: 'https://github.com/anjana96n/book-recommendation-sytem',
     demo: 'https://github.com/anjana96n/book-recommendation-sytem'
@@ -10,7 +10,7 @@ export const projects = [
   {
     title: 'Attendance Tracker',
     description: 'An efficient attendance tracker using QR codes for real-time check-ins, automated reporting, and intuitive dashboards, featuring absence management and detailed analytics',
-    image: './public/img/attendance.png',
+    image: './img/attendance.png',
     tech: ['React Native', 'Firebase'],
     github: 'https://github.com/anjana96n/attendance-tracker',
     demo: 'https://github.com/anjana96n/attendance-tracker'
@@ -18,7 +18,7 @@ export const projects = [
   {
     title: 'Classification of Diabetes and Hypertension',
     description: ' performance of various machine learning models on clinical data and single omics data to classify and predict diabetes and hypertension.',
-    image: './public/img/data.png',
+    image: './img/data.png',
     tech: ['Machine Learning', 'Python'],
     github: 'https://github.com/anjana96n/ML_models_Research',
     demo: 'https://github.com/anjana96n/ML_models_Research'
